@@ -1,1 +1,1 @@
-# pyramide petit avec C++
+# pyramide, petit jeu avec C++
