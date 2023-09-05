@@ -1,1 +1,1 @@
-# pyramide
+# pyramide petit avec C++
